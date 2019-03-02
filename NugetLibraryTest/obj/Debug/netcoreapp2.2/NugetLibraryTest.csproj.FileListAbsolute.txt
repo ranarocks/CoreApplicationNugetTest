@@ -1,0 +1,9 @@
+D:\Projects\CoreNugetLibraryPOC\NugetLibraryTest\NugetLibraryTest\bin\Debug\netcoreapp2.2\NugetLibraryTest.deps.json
+D:\Projects\CoreNugetLibraryPOC\NugetLibraryTest\NugetLibraryTest\bin\Debug\netcoreapp2.2\NugetLibraryTest.dll
+D:\Projects\CoreNugetLibraryPOC\NugetLibraryTest\NugetLibraryTest\obj\Debug\netcoreapp2.2\NugetLibraryTest.csprojAssemblyReference.cache
+D:\Projects\CoreNugetLibraryPOC\NugetLibraryTest\NugetLibraryTest\obj\Debug\netcoreapp2.2\NugetLibraryTest.csproj.CoreCompileInputs.cache
+D:\Projects\CoreNugetLibraryPOC\NugetLibraryTest\NugetLibraryTest\obj\Debug\netcoreapp2.2\NugetLibraryTest.AssemblyInfoInputs.cache
+D:\Projects\CoreNugetLibraryPOC\NugetLibraryTest\NugetLibraryTest\obj\Debug\netcoreapp2.2\NugetLibraryTest.AssemblyInfo.cs
+D:\Projects\CoreNugetLibraryPOC\NugetLibraryTest\NugetLibraryTest\bin\Debug\netcoreapp2.2\NugetLibraryTest.pdb
+D:\Projects\CoreNugetLibraryPOC\NugetLibraryTest\NugetLibraryTest\obj\Debug\netcoreapp2.2\NugetLibraryTest.dll
+D:\Projects\CoreNugetLibraryPOC\NugetLibraryTest\NugetLibraryTest\obj\Debug\netcoreapp2.2\NugetLibraryTest.pdb
